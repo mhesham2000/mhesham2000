@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hesham</h1>
-<h3 align="center">Data Engineer | Building Scalable Data Pipelines & Cloud Solutions</h3>
 
----
+<h3 align="center">Data Engineer | Building Scalable Data Pipelines & Cloud Solutions</h3>
 
 <div align="center">
   <a href="https://github.com/mhesham2000?tab=followers">
@@ -20,6 +19,8 @@
 
 ---
 ### 👨‍💻 About Me
+
+- 🎓 Bachelor's degree, Information Technology
 - 🎓 Graduate of **ITI – Data Engineering Track**  
 - 🌱 Skilled in **Data Engineering, Big Data, and Cloud**  
 - 🔭 Currently working as a **freelancer Data Engineer**  

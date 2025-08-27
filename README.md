@@ -135,7 +135,6 @@
 ###
 ---
 
-###
 
 ### 🚀 Projects
 - [**End-to-End ETL Pipeline (Dockerized)**](https://github.com/mhesham2000/End_to_End_ETL_Pipeline_Project_using_docker)  
@@ -154,9 +153,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mhesham2000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
 

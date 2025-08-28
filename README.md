@@ -137,12 +137,11 @@
 
 
 ### 🚀 Projects
-- [**End-to-End ETL Pipeline (Dockerized)**](https://github.com/mhesham2000/End_to_End_ETL_Pipeline_Project_using_docker)  
-  Extract weather data via API → Load to PostgreSQL → Transform with DBT → Orchestrate with Airflow  
-
 - [**TheSportsDB Streaming Stack (Kafka → Spark → Airflow/Grafana)**](https://github.com/hk2eg/kickhouse-kafka-spark-airflow)  
   This repo ingests TheSportsDB v2 soccer data into Kafka via Python producers, validates/filters with a Spark Structured Streaming job, and orchestrates + monitors with Airflow + Grafana.
 
+- [**End-to-End ETL Pipeline (Dockerized)**](https://github.com/mhesham2000/End_to_End_ETL_Pipeline_Project_using_docker)  
+  Extract weather data via API → Load to PostgreSQL → Transform with DBT → Orchestrate with Airflow  
 ---
 
 ### 📜 Courses & Certificates
